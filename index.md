@@ -7,3 +7,5 @@ title: Welcome
 ---
 Welcome to my personal website! Here you can find information about my projects and research.
 
+Parts of this website are under construction.
+
