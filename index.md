@@ -3,9 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Welcome
+title: About Me
 ---
-Welcome to my personal website! Here you can find information about my projects and research.
 
-Parts of this website are under construction.
+Hello there!
+I am a senior undergraduate at IIT Bombay majoring in Mechanical Engineering with a minor in Computer Science. My research is focused on sub-continuum heat transfer and I am deeply interested in developing thermal management systems for emerging technologies.
+
+My bacherlor's thesis under Prof. Amit Agrawal focuses on analytical methods for thermal transport in nanostructures under the phonon hydrodynamic framework. I have previously interned at Jaguar Land Rover where I worked on experimentally characterizing thermal management systems for automotive traction inverters. I was also the Mobility Subsystem Lead of the IITB Mars Rover Team. During my tenure, I developed a carbon fiber suspension and terrain compliant grousers which we featured in the annual University Rover Challenge held in Utah, USA.
+
+Besides my academics, I am a huge fan of intricate worldbuilding in science fiction and high fantasy from the likes of Brandon Sanderson and Frank Herbert. Feel free to explore this website for articles on my projects and other work.
+
+_Parts of this website are under construction, some pages might be incomplete. Please check back soon!._
 
