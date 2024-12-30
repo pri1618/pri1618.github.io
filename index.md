@@ -5,7 +5,7 @@
 layout: home
 title:
 ---
-
+![image](/pfp.jpeg){: style="float: right"}
 Hello there!
 I am a senior undergraduate at IIT Bombay majoring in Mechanical Engineering. My research is focused on sub-continuum heat transfer and I am deeply interested in developing thermal management systems for emerging technologies.
 
@@ -13,8 +13,6 @@ My bachelor's thesis under Prof. Amit Agrawal focuses on analytical methods for 
 
 Besides my academics, I am a huge fan of intricate worldbuilding in science fiction and high fantasy from the likes of Brandon Sanderson and Frank Herbert. 
 Feel free to explore this website for articles on my projects and other work.
-
-![image](/pfp.jpeg){: style="float: left"}
 
 _Parts of this website are under construction, some pages might be incomplete. Please check back soon!_
 
