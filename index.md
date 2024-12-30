@@ -14,7 +14,7 @@ My bachelor's thesis under Prof. Amit Agrawal focuses on analytical methods for 
 Besides my academics, I am a huge fan of intricate worldbuilding in science fiction and high fantasy from the likes of Brandon Sanderson and Frank Herbert. 
 Feel free to explore this website for articles on my projects and other work.
 
-![profile_test](/assets/pfp.jpeg)
+![profile_test](/pfp.jpeg)
 
 _Parts of this website are under construction, some pages might be incomplete. Please check back soon!_
 
