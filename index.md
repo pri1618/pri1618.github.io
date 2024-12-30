@@ -5,7 +5,7 @@
 layout: home
 title: Priyanth Elango
 ---
-![image](/pfp.jpeg){: style="float: right;  margin-left: 1em; width: 300px; height: 300px; border-radius: 50%;"}
+![image](/pfp.jpeg){: style="float: right;  margin-left: 1em; width: 300px; height: 300px; border-radius: 10%;"}
 Hello there!
 
 I am a senior undergraduate at IIT Bombay majoring in Mechanical Engineering. 
