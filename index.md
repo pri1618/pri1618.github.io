@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:
+title: Priyanth Elango
 ---
-
-### Priyanth Elango
 ![image](/pfp.jpeg){: style="float: right;  margin-left: 1em; width: 300px; height: 300px; border-radius: 50%;"}
 Hello there!
 
