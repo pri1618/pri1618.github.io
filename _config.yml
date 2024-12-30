@@ -32,10 +32,8 @@ header_pages:
   - projects.md
 
 # Build settings
-# theme: minima
-remote_theme: jekyll/minima
-minima:
-  skin: dark # or auto if you want it to switch with your system settings.
+theme: minima
+
   
 # plugins:
 #   - jekyll-feed
