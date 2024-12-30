@@ -5,7 +5,7 @@
 layout: home
 title:
 ---
-![image](/pfp.jpeg){: style="float: right"}
+![image](/pfp.jpeg){: style="float: right";  margin-right: 1em; border-radius: 50%; width: 250px; height: 250px;}
 Hello there!
 I am a senior undergraduate at IIT Bombay majoring in Mechanical Engineering. My research is focused on sub-continuum heat transfer and I am deeply interested in developing thermal management systems for emerging technologies.
 
